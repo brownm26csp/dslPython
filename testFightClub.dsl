@@ -1,0 +1,8 @@
+testFightClubModule canCreateFightClub 600
+testFightClubModule canGetMaxGroupMembers 70
+testFightClubModule canGetSessionList
+testFightClubModule canSetMaxGroupMembers 700
+testFightClubModule canAddSessionIfNotInList
+testFightClubModule cannotAddSessionIfInList
+testFightClubModule canRemoveSessionIfInList
+testFightClubModule cannotRemoveSessionIfNotInList

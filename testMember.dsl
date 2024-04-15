@@ -1,0 +1,10 @@
+testMember memberIsCorrect mel brown 50 True mb12345
+testMember firstNameIsCorrect melissa
+testMember lastNameIsCorrect brown
+testMember numberSessionsIsCorrect 50
+testMember isBannedIsCorrect True
+testMember memberIdIsCorrect mb12345
+testMember canSetFirstName Leslie
+testMember canSetLastName Knope
+testMember canSetNumberSessions 77
+testMember canSetIsBanned True
